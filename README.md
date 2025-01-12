@@ -32,7 +32,7 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdhkyuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote that always keep me in mind
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical?quote=When)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When)
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rdhkyuu&icon=9&color=8)](https://visitcount.itsvg.in)
