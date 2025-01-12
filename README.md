@@ -3,11 +3,11 @@
 Fresh graduated guy from highschool. More likely a technical school where it focused more on tech and IT. Most of the activities I'm doing right now is improving my skill. Not just on technology, but to study for my journey into a college. Right now, I'm focusing how to become a QA Engineer, still right now on the QA Manual.
 
 <div align="center"> 
-    <img src="https://media1.tenor.com/m/6ew2pjgG3cwAAAAC/emu-otori-emu-otori-celebrate.gif" width="150px"/>
+    <img src="https://media.tenor.com/4OsO9C7-yRgAAAAi/emu-otori-otori-emu.gif" width="150px"/>
 </div>
 
 
-## 🌐 Socials:
+# 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kuurifeelalive) 
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?style=for-the-badge&logo=TikTok&logoColor=white)](https://tiktok.com/@reekyo)
 
@@ -26,4 +26,16 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
 ![](https://komarev.com/ghpvc/?username=rdhkyuu&style=for-the-badge&color=ff69b4)
 
 
+# 📊 GitHub Stats:
+![](https://github-readme-stats.vercel.app/api?username=rdhkyuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=rdhkyuu&theme=dark&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdhkyuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+### ✍️ Quote that always keep me in mind
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical?quote=When dying, never call it beauty. There's no flower that blooms to fall)
+
+---
+[![](https://visitcount.itsvg.in/api?id=rdhkyuu&icon=9&color=8)](https://visitcount.itsvg.in)
+
+<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
