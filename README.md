@@ -8,6 +8,9 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuurifeelalive) 
+<a href="https://instagram.com/kuurifeelalive" target="_blank">
+<img alt="Static Badge" src="https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white">
+</a>
 [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@reekyo) 
 
 # 💻 Tech Stack:
