@@ -2,8 +2,8 @@
 
 Fresh graduated guy from highschool. More likely a technical school where it focused more on tech and IT. Most of the activities I'm doing right now is improving my skill. Not just on technology, but to study for my journey into a college. Right now, I'm focusing how to become a QA Engineer, still right now on the QA Manual.
 
-<div align="center" width="30px"> 
-    <img src="https://media1.tenor.com/m/6ew2pjgG3cwAAAAC/emu-otori-emu-otori-celebrate.gif"/>
+<div align="center"> 
+    <img src="https://media1.tenor.com/m/6ew2pjgG3cwAAAAC/emu-otori-emu-otori-celebrate.gif" width="30px"/>
 </div>
 
 ## 🌐 Socials:
