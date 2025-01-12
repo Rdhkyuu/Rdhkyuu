@@ -32,7 +32,8 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=rdhkyuu&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 
 ### ✍️ Quote that always keep me in mind
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When dying, never call it beauty. There's no flower that blooms to fall.&author=Tsukoyomi - Reason For Existance (3:15 / 4:04))
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When%20dying,%20never%20call%20it%20beauty.%20There's%20no%20flower%20that%20blooms%20to%20fall.&author=Tsukoyomi%20-%20Reason%20For%20Existance%20(3:15%20/%204:04))
+
 
 ---
 [![](https://visitcount.itsvg.in/api?id=rdhkyuu&icon=9&color=8)](https://visitcount.itsvg.in)
