@@ -7,7 +7,7 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
 </div>
 
 ### ✍️ Quote that always keep me in mind
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When%20dying,%20never%20call%20it%20beauty.%20There's%20no%20flower%20that%20blooms%20to%20fall.&author=Tsukoyomi%20-%20Reason%20For%20Existance%20(3:15%20/%204:04)&border=true)
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical&quote=When%20dying,%20never%20call%20it%20beauty.%20There's%20no%20flower%20that%20blooms%20to%20fall.&author=Tsukoyomi%20-%20Reason%20For%20Existance%20(3:15%20/%204:04)?border=true)
 
 # 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kuurifeelalive) 
