@@ -6,7 +6,6 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
     <img src="https://media1.tenor.com/m/6ew2pjgG3cwAAAAC/emu-otori-emu-otori-celebrate.gif" width="150px"/>
 </div>
 
-![](https://komarev.com/ghpvc/?username=rdhkyuu)
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?style=for-the-badge&logo=Instagram&logoColor=white)](https://instagram.com/kuurifeelalive) 
@@ -24,6 +23,7 @@ Fresh graduated guy from highschool. More likely a technical school where it foc
 
 
 ---
-[![](https://visitcount.itsvg.in/api?id=Rdhkyuu&icon=0&color=9)](https://visitcount.itsvg.in)
+![](https://komarev.com/ghpvc/?username=rdhkyuu&style=for-the-badge&color=ff69b4)
+
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) --> 
