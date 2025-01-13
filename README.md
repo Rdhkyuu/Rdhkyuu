@@ -1,6 +1,6 @@
 # Rikyuu
 
-<p style="text-align: justify;"> Fresh graduated guy from highschool. More likely a technical school where it focused more on tech and IT. Most of the activities I'm doing right now is improving my skill. Not just on technology, but to study for my journey into a college. Right now, I'm focusing how to become a QA Engineer, still right now on the QA Manual. </p>
+<p style="text-align: justify;"> Fresh graduated guy from highschool. More likely a technical school where it focused more on IT. Most of the activities I'm doing right now is improving my skill. Not just on technology, but to study for my journey into a college. Right now, I'm focusing how to become a QA Engineer, still right now on the QA Manual. </p>
 
 <div align="center"> 
     <img src="https://media.tenor.com/4OsO9C7-yRgAAAAi/emu-otori-otori-emu.gif" width="150px"/>
