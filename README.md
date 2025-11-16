@@ -1,9 +1,11 @@
 # Ridho Septiansyah
 
-<p style="text-align: justify;"> Fresh graduated guy from highschool. More likely a technical school where it focused more on IT. Most of the activities I'm doing right now is improving my skill. Not just on technology, but to study for my journey into a college. Right now, I'm focusing how to become a QA Engineer, still right now on the QA Manual. </p>
+<p style="text-align: justify;"> Currently studying in college about electrical engineering! Gotta focus on it before I do something more in my profile.
+
+<p style="text-align: justify;"> Fresh graduated guy from highschool. More likely a technical school where it focused more on IT. Most of the activities I'm doing right now is improving my skill. Not just on technology, but to <del> study for my journey into a college. Right now, I'm focusing how to become a QA Engineer, still right now on the QA Manual.</del> </p>
 
 <div align="center"> 
-    <img src="https://media.tenor.com/4OsO9C7-yRgAAAAi/emu-otori-otori-emu.gif" width="150px"/>
+    <img src="https://media.tenor.com/yzRa1CN1WNQAAAAi/fat-horse.gif" width="150px"/>
 </div>
 
 ### ✍️ Quote that always keep me in mind
